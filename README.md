@@ -1,6 +1,6 @@
 # Creating simple maps for publication with satellite images
 
-This repo holds materials and data for the __Creating simple maps for publication with satellite images__ hands-onsession at NICAR25 in Mineapolis.
+This repo holds materials and data for the __Creating simple maps for publication with satellite images__ hands-onsession at [NICAR25](https://schedules.ire.org/nicar-2025/) in Mineapolis.
 This session was taught by [Laura Kurtzberg](https://laurajael.com).
 
 ## A Few Prerequisites
