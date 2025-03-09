@@ -5,12 +5,12 @@ This session was taught by [Laura Kurtzberg](https://laurajael.com).
 
 ## A Few Prerequisites
 Note: Using Firefox or Chrome browser is recommended for these exercises
-📥 Repo shortlink: [kutt.it/satellite-NICAR25](https://kutt.it/satellite-NICAR25)
-🛰️ Open [Copernicus Browser](https://browser.dataspace.copernicus.eu), create account, and log in
-🌎 Open [Google Earth Pro](https://www.google.com/earth/about/versions/) desktop application 
-☁️ Also, [Google Earth Engine](https://code.earthengine.google.com/?scriptPath=Examples%3ADatasets%2FUSDA%2FUSDA_NAIP_DOQQ) in browser, register, and log in
-🏹 Download and open [QGIS](https://qgis.org/download/)
-📊 Optional: open [Flourish](https://flourish.studio/) in the browser and log in 
+- 📥 Repo shortlink: [kutt.it/satellite-NICAR25](https://kutt.it/satellite-NICAR25)
+- 🛰️ Open [Copernicus Browser](https://browser.dataspace.copernicus.eu), create account, and log in
+- 🌎 Open [Google Earth Pro](https://www.google.com/earth/about/versions/) desktop application
+- ☁️ Also, [Google Earth Engine](https://code.earthengine.google.com/?scriptPath=Examples%3ADatasets%2FUSDA%2FUSDA_NAIP_DOQQ) in browser, register, and log in
+- 🏹 Download and open [QGIS](https://qgis.org/download/)
+- 📊 Optional: open [Flourish](https://flourish.studio/) in the browser and log in 
 
 ## Data Included
 Data files included in this repo include: 
